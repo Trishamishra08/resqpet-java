@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/index.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/logout.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/editprofile.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/feedback.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/contact.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/stats.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/about.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/controller/ChangePasswordServlet.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/login.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/admin.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/model/RescueRequest.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/dao/NgoDAO.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/assets/css/main.css</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/register.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/changepassword.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/header.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/model/Ngo.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/controller/NgoController.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/banner.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/ngo.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/dao/RescueDAO.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/report.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/controller/RescueRequestController.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/Aboutus.jsp</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/util/DBConnection.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/src/java/controller/EditAdminProfileServlet.java</file>
+            <file>file:/C:/Users/trish/Documents/NetBeansProjects/ResQPetJava/web/cta.jsp</file>
+        </group>
+    </open-files>
+</project-private>
